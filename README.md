@@ -34,12 +34,8 @@ One of my **Linux & Networking for DevOps** PDF posts on LinkedIn reached:
 - ❤️ 159 reactions, 67 reposts
 - 📈 135 followers gained, 75 profile views
 
-## 📥 PDF Version
-
-You can download the latest compiled version here:  
-**[Sufiyan_Khan_Resume.pdf](./Sufiyan_Khan_Resume.pdf)**
 
 ## 🧑‍💻 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/sufiyan-cloud/)
-- [GitHub](https://github.com/yourusername)
+
