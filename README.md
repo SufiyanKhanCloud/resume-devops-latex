@@ -10,9 +10,8 @@ This repository contains my professional resume written in LaTeX. It is tailored
 
 ## 🛠️ Technologies & Tools
 
-- **LaTeX** (for resume formatting)
-- **Linux**, **Bash** - **Docker**, **Docker Compose**
-- **Git & GitHub**
+- **Linux**, **Bash** **Docker**, **Docker Compose**
+- **Git & GitHub** **Agile & Scrum** **Gitlab** **Jenkins**
 
 ## 📌 Key Projects
 
