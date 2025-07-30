@@ -17,6 +17,7 @@ This repository contains my professional resume written in LaTeX. It is tailored
 
 - **Jenkins CI/CD Pipeline** using Groovy & Docker
 - **Django Notes App** hosted on EC2
+- **Flask Microservice Architecture**
 
 > 🔗 All project repositories are linked in the resume itself.
 
