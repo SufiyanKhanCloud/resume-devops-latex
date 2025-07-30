@@ -11,7 +11,7 @@ This repository contains my professional resume written in LaTeX. It is tailored
 ## 🛠️ Technologies & Tools
 
 - **LaTeX** (for resume formatting)
-- **Linux**, **Bash**
+- **Linux**, **Bash** - **Docker**, **Docker Compose**
 - **Git & GitHub**
 
 ## 📌 Key Projects
