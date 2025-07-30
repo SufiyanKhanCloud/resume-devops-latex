@@ -17,7 +17,6 @@ This repository contains my professional resume written in LaTeX. It is tailored
 ## 📌 Key Projects
 
 - **Jenkins CI/CD Pipeline** using Groovy & Docker
-- **Smart Car Parking System** with ESP32 and Blynk IoT
 - **Django Notes App** hosted on EC2
 
 > 🔗 All project repositories are linked in the resume itself.
